@@ -28,7 +28,7 @@ for row in range(0, dataframe1.max_row):
 
 data = [
     [["SENDER"],
-     ["SOME RANDOM COMPANY NAME\nSOME RANDOM ADDRESS\nSOME RANDOM ADDRESS"],
+     ["SOME RANDOM COMPANY NAME\nSOME RANDOM ADDRESS\nSOME RANDOM ADDRESS L2"],
      ["HOMOGENEUS BOX"],
      ["MANUFACTURER", "ORDER NUMBER"],
      [data[i][0], data[i][1]],
